@@ -1,4 +1,4 @@
-#### cow-hut server
+### cow-hut server
 
 All Routes for Cow-Hut-Server
 
